@@ -68,4 +68,4 @@ Project template, scenario, and dataset provided by IBM Skills Network through t
 
 👩‍💻 Author
 
-Ghydaa Ikrami (GitHub: GhydaaAldirawy)
+Ghaydaa-Aldirawi
