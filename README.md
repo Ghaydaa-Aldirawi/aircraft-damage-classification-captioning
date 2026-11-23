@@ -46,11 +46,9 @@ Python · TensorFlow / Keras · PyTorch · Hugging Face Transformers (BLIP) · P
 
 🚀 How to Run
 
-The notebook downloads the dataset (from a course-hosted link) and the pre-trained models automatically, so an internet connection is required. The BLIP model is roughly 1 GB.
+The notebook downloads the dataset (from a course-hosted link) and the pre-trained models automatically, so an internet connection is required. The BLIP model is roughly 1 GB. After downloading or cloning this repository, open a terminal in its folder and run:
 
 bash
-git clone https://github.com/GhydaaAldirawy/aircraft-damage-classification-captioning.git
-cd aircraft-damage-classification-captioning
 pip install tensorflow torch transformers pillow matplotlib numpy
 jupyter notebook
 
@@ -70,4 +68,4 @@ Project template, scenario, and dataset provided by IBM Skills Network through t
 
 👩‍💻 Author
 
-Ghydaa Ikrami — @GhydaaAldirawy
+Ghydaa Ikrami (GitHub: GhydaaAldirawy)
